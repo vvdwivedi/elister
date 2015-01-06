@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.v2techlabs.elister" version="1.0.0">
   <name>List App</name>
-  <description>Hello World sample application that responds to the deviceready event.</description>
-  <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
+  <description>A simple application to show a list of employees</description>
+  <author href="http://v2techlabs.com" email="vivek@v2techlabs.com">Vivek V Dwivedi</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="phonegap-version" value="3.5.0"/>
